@@ -1,4 +1,9 @@
 #!/usr/bin/python
+'''
+Download today's bing background images
+This script will create an folder 'archive' in current directory.
+by shadu{at} foxmail.com
+'''
 import json
 import urllib2
 import time
